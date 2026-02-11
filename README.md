@@ -10,7 +10,7 @@ This project implements a small 3D vector math library (`v3math.c/.h`) and a uni
 Build:
 ```bash
 make
-
+```
 Run:
 ```bash
 ./v3test
